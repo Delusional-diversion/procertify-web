@@ -1,0 +1,1 @@
+export const urlPrefix = "https://tnx3j7r8-5000.inc1.devtunnels.ms";
